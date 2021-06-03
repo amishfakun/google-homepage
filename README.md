@@ -1,4 +1,4 @@
-# google-homepage
+# Google-homepage
 # The Odin Project- Google Homepage project
 
 ## Project Goal: deconstruct the website to get familiar with dev tools and html elements and CSS stylings
